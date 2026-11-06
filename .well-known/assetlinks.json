@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.differemalin",
+      "sha256_cert_fingerprints": [
+        "9A:38:39:A7:29:6A:6C:4B:98:1C:BF:3C:5F:DC:79:1D:3F:85:40:A4:2D:76:FA:7D:64:84:2A:2A:EB:BF:1B:DF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.differemalin.pro",
+      "sha256_cert_fingerprints": [
+        "9C:73:2F:80:A2:29:49:4A:C8:BB:5C:1D:39:0F:8B:B1:DA:DF:A0:4B:40:FC:C2:2C:FB:2B:BC:36:E3:56:51:75"
+      ]
+    }
+  }
+]
