@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "fr.differemalin",
       "sha256_cert_fingerprints": [
-        "9A:38:39:A7:29:6A:6C:4B:98:1C:BF:3C:5F:DC:79:1D:3F:85:40:A4:2D:76:FA:7D:64:84:2A:2A:EB:BF:1B:DF"
+        "9A:38:39:A7:29:6A:6C:4B:98:1C:BF:3C:5F:DC:79:1D:3F:85:40:A4:2D:76:FA:7D:64:84:2A:2A:EB:BF:1B:DF",
+                "61:3F:BF:E6:5C:1C:CA:A7:72:FA:02:5E:53:05:47:B5:29:04:F4:28:91:61:C7:5B:24:8A:DD:C6:24:6B:6E:48"
       ]
     }
   },
